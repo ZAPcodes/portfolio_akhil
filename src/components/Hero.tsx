@@ -36,7 +36,7 @@ export default function Hero() {
           </div>
           <div className="flex justify-center items-center">
             <ProfileImage
-              src="src\components\1000100829.jpg"
+              src="/1000100829.jpg"
               alt="Akhil Varanasi - AI/ML Engineer"
             />
           </div>

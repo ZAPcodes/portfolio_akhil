@@ -6,14 +6,14 @@ const projects = [
     title: 'Advanced Perception Algorithms for Legged Robots',
     description:
       'Enhanced robotic perception and navigation with elevation mapping, visual odometry, and environmental mapping in diverse terrains.',
-    image: "src/components/leggedrobot.jpg",
+    image: "/leggedrobot.jpg",
     tags: ['Robotics', 'ROS2', 'Lidar', 'Visual Odometry'],
   },
   {
     title: 'VitalsGuard',
     description:
       'Wearable device for real-time monitoring and 24-hour prediction of vital signs with GPS tracking and cloud storage.',
-    image: 'src/components/digitalWatch.jpg',
+    image: '/digitalWatch.jpg',
     tags: ['Healthcare', 'IoT', 'Prediction', 'Wearable Tech'],
   },
   {
@@ -27,14 +27,14 @@ const projects = [
     title: 'Visual Odometry and Sensor Fusion with ROS',
     description:
       'Developed a ROS package for integrating camera and IMU data, enhancing localization with feature extraction and Kalman filtering.',
-    image: 'src/components/oodometer.png',
+    image: '/oodometer.png',
     tags: ['ROS', 'Sensor Fusion', 'Computer Vision', 'Localization'],
   },
   {
     title: 'Sign Language Detection using Neural Networks',
     description:
       'Real-time sign language recognition using MediaPipe for landmarks and LSTM neural networks for action classification.',
-    image: 'src/components/0_6aEBXcTf3YxIOund-2418144253.png',
+    image: '/0_6aEBXcTf3YxIOund-2418144253.png',
     tags: ['Neural Networks', 'MediaPipe', 'LSTM', 'Sign Language'],
   },
 ];
