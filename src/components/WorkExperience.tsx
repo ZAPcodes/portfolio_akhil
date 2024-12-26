@@ -11,6 +11,15 @@ interface WorkExperienceItem {
 
 const experiences: WorkExperienceItem[] = [
   {
+    title: "Brilyant IT Solutions",
+    company: "Brilyant IT Solutions",
+    role: "Software Development Engineer Intern",
+    period: "December 2024 – January 2025",
+    description: [
+      "Developed a Recommendation System for an E-Commerce Website."
+    ]
+  },
+  {
     title: "GirlScript Summer of Code",
     company: "Open Source Contributor",
     role: "Open Source Contributor",
