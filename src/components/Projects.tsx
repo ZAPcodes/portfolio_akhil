@@ -17,7 +17,7 @@ const projects = [
     tags: ["AI", "NLP", "LangChain", "Biomedical Tools"]
   },
   {
-    title: "Smart Recommendation System (Brilyant IT Solutions)",
+    title: "Smart Recommendation System",
     description:
       "Developed a personalized recommendation system to enhance user experience, providing tailored suggestions for both employees and customers based on their preferences and interactions. Designed two distinct user portals: one for recommending items based on specific conditions, and another for suggesting products based on user behavior and history.",
     image: "/rec.jpeg",
