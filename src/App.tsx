@@ -5,6 +5,7 @@ import Expertise from './components/Expertise';
 import WorkExperience from './components/WorkExperience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import Skills from './components/Skills';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Hero />
         <WorkExperience />
         <Expertise />
+        <Skills />
         <Projects />
         <Contact />
       </main>
