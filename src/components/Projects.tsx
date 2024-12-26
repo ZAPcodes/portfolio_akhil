@@ -10,6 +10,20 @@ const projects = [
     tags: ['Robotics', 'ROS2', 'Lidar', 'Visual Odometry'],
   },
   {
+    title: "MediGenie: Medical ChatBot AI",
+    description:
+      "Developed an AI-driven chatbot designed to assist with medical queries, integrating natural language processing and biomedical tools. Leveraged APIs like NCBI Entrez to retrieve and analyze medical data, providing evidence-based insights in real time. Implemented LangChain framework with tools and agents to streamline query understanding and improve response accuracy. Designed the chatbot to identify symptoms, recommend treatments, and process natural language queries for enhanced user interaction. Ensured scalability and continuous improvement by utilizing advanced AI models and learning from user interactions.",
+    image: "/medigenie.jpg",
+    tags: ["AI", "NLP", "LangChain", "Biomedical Tools"]
+  },
+  {
+    title: "Smart Recommendation System (Brilyant IT Solutions)",
+    description:
+      "Developed a personalized recommendation system to enhance user experience, providing tailored suggestions for both employees and customers based on their preferences and interactions. Designed two distinct user portals: one for recommending items based on specific conditions, and another for suggesting products based on user behavior and history. Utilized various data inputs like ratings, reviews, browsing history, and user interactions to improve recommendation accuracy. Implemented recommendation algorithms that consider factors such as discounts, user preferences, and purchase patterns. Focused on optimizing system performance and user engagement through continuous learning and dynamic updates to recommendations.",
+    image: "/recommendation.jpg",
+    tags: ["AI", "Recommendation Systems", "User Behavior Analysis", "Machine Learning"]
+  },
+  {
     title: 'VitalsGuard',
     description:
       'Wearable device for real-time monitoring and 24-hour prediction of vital signs with GPS tracking and cloud storage.',
