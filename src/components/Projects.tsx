@@ -13,14 +13,14 @@ const projects = [
     title: "MediGenie: Medical ChatBot AI",
     description:
       "Developed an AI-driven chatbot designed to assist with medical queries, integrating natural language processing and biomedical tools. Implemented LangChain framework with tools and agents to streamline query understanding and improve response accuracy. Designed the chatbot to identify symptoms, recommend treatments, and process natural language queries for enhanced user interaction. ",
-    image: "/medigenie.jpg",
+    image: "/medigenie.jpeg",
     tags: ["AI", "NLP", "LangChain", "Biomedical Tools"]
   },
   {
     title: "Smart Recommendation System (Brilyant IT Solutions)",
     description:
       "Developed a personalized recommendation system to enhance user experience, providing tailored suggestions for both employees and customers based on their preferences and interactions. Designed two distinct user portals: one for recommending items based on specific conditions, and another for suggesting products based on user behavior and history.",
-    image: "/recommendation.jpg",
+    image: "/rec.jpeg",
     tags: ["AI", "Recommendation Systems", "User Behavior Analysis", "Machine Learning"]
   },
   {
