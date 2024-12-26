@@ -1,5 +1,5 @@
 import React from 'react';
-import { Code, Tool, Database, BarChart, GitBranch, Monitor } from 'lucide-react';
+import { Code, Settings, Database, BarChart, GitBranch, Monitor } from 'lucide-react';
 
 const skillsData = [
   {
@@ -8,7 +8,7 @@ const skillsData = [
     description: 'Proficiency in Python, C, C++, and Java for a variety of applications.',
   },
   {
-    icon: Tool,
+    icon: Settings,
     title: 'Tools & Technologies',
     description: 'Experience with Docker, TensorFlow, PyTorch, ROS, ROS2, OpenCV, and AWS tools.',
   },
