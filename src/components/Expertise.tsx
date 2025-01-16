@@ -25,7 +25,7 @@ const expertiseAreas = [
   {
     icon: LineChart,
     title: 'Data Science',
-    description: 'Statistical analysis, data visualization, and predictive modeling.',
+    description: 'Leveraging statistical analysis, advanced data visualization techniques, and cutting-edge predictive modeling to uncover insights, drive informed decision-making, and forecast future trends.',
   },
   {
     icon: Server,
