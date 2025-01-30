@@ -29,7 +29,7 @@ const experiences: WorkExperienceItem[] = [
   {
     title: "ARTPARK, IISc Bangalore",
     company: "ARTPARK",
-    role: "Robotics Intern",
+    role: "Robotics Software Development Engineer Intern",
     period: "June 2024 – July 2024",
     description: [
       "Developed algorithms for localization, navigation, and terrain assessment for autonomous Legged robot operations.",
