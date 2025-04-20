@@ -16,8 +16,8 @@ const experiences: WorkExperienceItem[] = [
     role: "AI & Robotics Researcher",
     period: "April 2025 – Present",
     description: [
-      "Researching in the field of Artificial Intelligence.",'a focus on Agentic AI, Multimodal Large Language Models (LLMs),
-Transformers, Hybrid AI Architectures, and Retrieval-Augmented Generation (RAG).'
+      "Researching in the field of Artificial Intelligence.","a focus on Agentic AI, Multimodal Large Language Models (LLMs),
+Transformers, Hybrid AI Architectures, and Retrieval-Augmented Generation (RAG)."
     ]
   },
   {
