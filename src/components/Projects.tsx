@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'Advanced Perception Algorithms for Legged Robots',
     description:
-      'Enhanced robotic perception and navigation with elevation mapping, visual odometry, and environmental mapping in diverse terrains.',
+      'Enhanced robotic perception and autonomous navigation for legged robots through advanced elevation mapping in ROS2, visual odometry, and environmental mapping, enabling reliable operation across diverse terrains—from structured indoor spaces to rugged outdoor environments. This work, conducted under ARTPARK (Jun–Jul 2024), focused on developing robust perception algorithms to address key challenges in obstacle avoidance, terrain understanding, and real-time interaction.',
     image: "/leggedrobot.jpg",
     tags: ['Robotics', 'ROS2', 'Lidar', 'Visual Odometry'],
   },
