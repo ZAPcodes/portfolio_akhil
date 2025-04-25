@@ -14,7 +14,7 @@ const projects = [
     description:
       'I developed Project Jarvis, an Agentic AI Assistant — a modular, voice-powered system that thinks, plans, and acts using natural language. Inspired by the principles of Agentic AI, Jarvis is capable of voice interaction, autonomous decision-making, tool use, memory retention, and multi-step reasoning.',
     image: "/Jarvis.jpeg",
-    tags: ['Agentic AI', 'RAG', 'Large Language Model', 'Voice'],
+    tags: ['Agentic AI', 'RAG', 'Large Language Model', 'Voice','Multi-Model','Memory Optimization'],
   },
   {
     title: 'Voice to Visualization – A Multilingual Multimodal AI Tool',
@@ -28,7 +28,7 @@ const projects = [
     description:
       "Developed an AI-driven chatbot designed to assist with medical queries, integrating natural language processing and biomedical tools. Implemented LangChain framework with tools and agents to streamline query understanding and improve response accuracy. Designed the chatbot to identify symptoms, recommend treatments, and process natural language queries for enhanced user interaction. ",
     image: "/medigenie.jpeg",
-    tags: ["AI", "NLP", "LangChain", "Biomedical Tools"]
+    tags: ["AI", "NLP", "LangChain", "Biomedical Tools","LLM FineTuning","API"]
   },
   {
     title: "Smart Recommendation System",
