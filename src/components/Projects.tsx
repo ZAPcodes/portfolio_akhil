@@ -40,7 +40,7 @@ const projects = [
   {
     title: 'VitalsGuard',
     description:
-      'Wearable device for real-time monitoring and 24-hour prediction of vital signs with GPS tracking and cloud storage.',
+      'Developed VitalsGuard, an innovative wearable health-monitoring device that delivers real-time insights and 24-hour predictive analysis of vital signs, including heart rate, SpO₂, temperature, and blood pressure. Designed for early detection and preventive care, it integrates GPS tracking for emergency response and secure cloud storage for continuous data updates every 30 seconds. With its cost-effective, scalable design, VitalsGuard aims to transform remote healthcare and make predictive health monitoring accessible to all.',
     image: '/digitalWatch.jpg',
     tags: ['Healthcare', 'IoT', 'Prediction', 'Wearable Tech'],
   },
