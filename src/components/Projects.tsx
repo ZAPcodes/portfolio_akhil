@@ -12,7 +12,7 @@ const projects = [
   {
     title: 'Project Jarvis – Agentic AI Assistant for Voice-Driven System Intelligence',
     description:
-      'I developed Project Jarvis, an Agentic AI Assistant — a modular, voice-powered system that thinks, plans, and acts using natural language. Inspired by the principles of Agentic AI, Jarvis is capable of voice interaction, autonomous decision-making, tool use, memory retention, and multi-step reasoning.',
+      'Developed Project Jarvis, an Agentic AI Assistant — a modular, voice-powered system that thinks, plans, and acts using natural language. Inspired by the principles of Agentic AI, Jarvis is capable of voice interaction, autonomous decision-making, tool use, memory retention, and multi-step reasoning.',
     image: "/Jarvis.jpeg",
     tags: ['Agentic AI', 'RAG', 'Large Language Model', 'Voice','Multi-Model','Memory Optimization'],
   },
