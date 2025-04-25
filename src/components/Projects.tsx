@@ -13,14 +13,14 @@ const projects = [
     title: 'Project Jarvis – Agentic AI Assistant for Voice-Driven System Intelligence',
     description:
       'I developed Project Jarvis, an Agentic AI Assistant — a modular, voice-powered system that thinks, plans, and acts using natural language. Inspired by the principles of Agentic AI, Jarvis is capable of voice interaction, autonomous decision-making, tool use, memory retention, and multi-step reasoning.',
-    image: "/leggedrobot.jpg",
+    image: "/Jarvis.jpeg",
     tags: ['Agentic AI', 'RAG', 'Large Language Model', 'Voice'],
   },
   {
     title: 'Voice to Visualization – A Multilingual Multimodal AI Tool',
     description:
       'Designed and deployed a multilingual multimodal AI Tool that transforms voice commands into dynamic, data-driven visualizations. The Tool empowers users — including non-technical individuals — to query real-time data through natural speech and receive instant, visual insights in their native language.',
-    image: "/leggedrobot.jpg",
+    image: "/V2V.png",
     tags: ['NLP', 'RAG', 'Large Language Model', 'Voice','Speech Recognition (ASR)','Multimodal Learning'],
   },
   {
