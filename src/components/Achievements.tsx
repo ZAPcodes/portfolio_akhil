@@ -10,7 +10,7 @@ interface AchievementItem {
 
 const achievements: AchievementItem[] = [
   {
-    title: "Harvard HPAIR Asia Conference 2025 Delegate",
+    title: "Harvard HPAIR25",
     organization: "Harvard Project for Asian and International Relations (HPAIR)",
     period: "August 2025",
     details: [
