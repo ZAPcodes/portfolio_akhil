@@ -10,11 +10,25 @@ const projects = [
     tags: ['Robotics', 'ROS2', 'Lidar', 'Visual Odometry'],
   },
   {
+  title: 'KisaanVaani – Agentic AI for Agriculture',
+  description:
+    'Built a multilingual, voice-first AI assistant under ARTPARK @ IISc Bangalore to deliver real-time, region-specific agricultural guidance. The system supports 12+ Indian languages using ASR/TTS pipelines with 95% STT accuracy. Leveraged a hybrid RAG system combining offline manuals and real-time APIs to reduce query response time from 45s to 3s. Integrated a dynamic context memory engine to personalize advice based on crop history, past queries, and local conditions. Achieved 92% user satisfaction across 1,000+ farmer interactions.',
+  image: '/kisanvaani.png',
+  tags: ['Agentic AI', 'Voice Assistant', 'RAG', 'Multilingual AI', 'Agriculture'],
+  },
+  {
     title: 'Project Jarvis – Agentic AI Assistant for Voice-Driven System Intelligence',
     description:
       'Developed Project Jarvis, an Agentic AI Assistant — a modular, voice-powered system that thinks, plans, and acts using natural language. Inspired by the principles of Agentic AI, Jarvis is capable of voice interaction, autonomous decision-making, tool use, memory retention, and multi-step reasoning.',
     image: "/Jarvis.jpeg",
     tags: ['Agentic AI', 'RAG', 'Large Language Model', 'Voice','Multi-Model','Memory Optimization'],
+  },
+  {
+  title: 'MedAI – Clinical Voice Assistant',
+  description:
+    'Developed at Brilyant IT Solutions, MedAI is an AI-powered clinical assistant that automates SOAP note generation from doctor-patient conversations. Features include real-time transcription with 93% accuracy, medical term extraction, differential diagnosis suggestions, and FHIR-compliant EMR integration. Delivered through a user-friendly dashboard, MedAI reduced documentation time by 91.7% and supports structured summaries, transcripts, and insights.',
+  image: '/medai.png',
+  tags: ['Clinical AI', 'Voice Analysis', 'Whisper', 'LLM', 'Medical NLP'],
   },
   {
     title: 'Voice to Visualization – A Multilingual Multimodal AI Tool',
