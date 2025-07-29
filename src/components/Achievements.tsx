@@ -29,7 +29,7 @@ const achievements: AchievementItem[] = [
   },
   {
     title: "Winner - Softlaunch Innovation Challenge 2025",
-    organization: "Softlaunch India",
+    organization: "Ministry of Education & Institution’s Innovation Council",
     period: "May 2025",
     details: [
       "Built an AI-powered voice-to-dashboard analytics platform",
@@ -47,7 +47,7 @@ const achievements: AchievementItem[] = [
   },
   {
     title: "Top 10 - National Edge AI Challenge 2024",
-    organization: "Government of India",
+    organization: "STMelectronics & DigiToad Technologies",
     period: "November 2024",
     details: [
       "Built wearable health monitor with on-device ML and real-time alerting",
