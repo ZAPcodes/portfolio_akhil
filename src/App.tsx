@@ -6,6 +6,7 @@ import WorkExperience from './components/WorkExperience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Skills from './components/Skills';
+import Achievements from './components/Achievements';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <main>
         <Hero />
         <WorkExperience />
+        <Achievements />
         <Expertise />
         <Skills />
         <Projects />
