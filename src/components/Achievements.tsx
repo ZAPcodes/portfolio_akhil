@@ -30,7 +30,7 @@ const achievements: AchievementItem[] = [
   {
     title: "Winner - Softlaunch Innovation Challenge 2025",
     organization: "Ministry of Education & Institution’s Innovation Council",
-    period: "May 2025",
+    period: "March 2025",
     details: [
       "Built an AI-powered voice-to-dashboard analytics platform",
       "Eliminated need for SQL/BI tools using GPT-based natural language interface"
@@ -39,7 +39,7 @@ const achievements: AchievementItem[] = [
   {
     title: "Top 8 - CodeBot Hackathon 2025",
     organization: "ARTPARK @ IISc & TIH @ IIT Bombay",
-    period: "March 2025",
+    period: "July 2025",
     details: [
       "Finalist for KisaanVaani – a multilingual agentic AI assistant for farmers",
       "Delivered real-time agricultural support via voice in 12+ Indian languages"
@@ -48,7 +48,7 @@ const achievements: AchievementItem[] = [
   {
     title: "Top 10 - National Edge AI Challenge 2024",
     organization: "STMelectronics & DigiToad Technologies",
-    period: "November 2024",
+    period: "October 2024",
     details: [
       "Built wearable health monitor with on-device ML and real-time alerting",
       "Enabled medical insights without cloud dependency"
