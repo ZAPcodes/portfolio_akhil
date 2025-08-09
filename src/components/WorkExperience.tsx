@@ -25,7 +25,8 @@ const experiences: WorkExperienceItem[] = [
     role: "Software Development Engineer Intern",
     period: "January 2025 – March 2025",
     description: [
-      "Developed a Recommendation System for an E-Commerce Website."
+      "Developed a Recommendation System for an E-Commerce Website.",
+      "Engineered MedAI, an AI-powered clinical assistant that automates SOAP note generation from patient conversations, reducing documentation time by over 91%."
     ]
   },
   {
