@@ -10,13 +10,13 @@ export default function Hero() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Brain className="h-6 w-6 text-indigo-600 dark:text-indigo-400" />
-              <span className="text-indigo-600 dark:text-indigo-400 font-semibold">AI/ML Engineer</span>
+              <span className="text-indigo-600 dark:text-indigo-400 font-semibold">AI Solutions Architect</span>
             </div>
             <h1 className="text-5xl font-bold mb-6 text-gray-900 dark:text-white">
               Building the Future with Artificial Intelligence
             </h1>
             <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">
-              Specializing in machine learning, deep learning, and AI systems that solve real-world problems.
+              Architect & Builder of Agentic, Multimodal, and Hybrid Intelligence.
             </p>
             <div className="flex space-x-4">
               <a
